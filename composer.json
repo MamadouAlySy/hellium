@@ -1,0 +1,19 @@
+{
+    "name": "mamadou-aly-sy/hellium",
+    "description": "A simple php framework for building web applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MamadouAlySy\\Hellium\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mamadou Aly Sy",
+            "email": "sy.aly.mamadou@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
